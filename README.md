@@ -65,7 +65,7 @@ This project performs sentiment analysis on user reviews. The main tasks include
 The script processes the user reviews and classifies each review as positive, negative, or neutral based on its sentiment polarity. The results are summarized in an Excel file and visualized in a bar plot.
 
 ## Files
-- `review_analysis.py`: The main Python script for performing sentiment analysis.
+- `user-review-analysis.py`: The main Python script for performing sentiment analysis.
 - `user_review.xls`: The input dataset containing user reviews.
 - `requirements.txt`: A list of dependencies required to run the script.
 - `sentiment_summary_report.xlsx`: The summary report showing the distribution of sentiments.
